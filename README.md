@@ -1,2 +1,5 @@
 # Hello-World-Github
-This is a hello world project for usage of Github
+
+Hello I'm Wong Jeffrey!
+
+My student number is 1155159501.
